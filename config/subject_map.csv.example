@@ -1,0 +1,9 @@
+# Maps the raw acquisition identifier to the canonical subject code.
+#
+# The generated file is config/subject_map.csv, which is gitignored next to
+# .env: it re-identifies every participant, so it must never enter the tree.
+# Keep a copy outside the repo.
+#
+raw_id,code
+RAW_01,S1
+RAW_02,S2

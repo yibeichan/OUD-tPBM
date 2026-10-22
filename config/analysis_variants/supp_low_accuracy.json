@@ -1,0 +1,10 @@
+{
+  "name": "supp_low_accuracy",
+  "channels": "long",
+  "exclude_low_accuracy": false,
+  "h2_metric": "perseverative_error_rate",
+  "exclude_invalid_brief": true,
+  "second_timepoint": "most_complete",
+  "mask_wcst_without_regular_incorrect": true,
+  "brain_direction": "efficiency"
+}

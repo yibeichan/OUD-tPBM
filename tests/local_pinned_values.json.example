@@ -1,0 +1,63 @@
+{
+  "_comment": "Layout only. Copy to tests/local_pinned_values.json (untracked) and fill in the values checked against the study data. Every value here is a placeholder.",
+  "brief_baseline_scores": {
+    "S<n>": {
+      "<scale or index column>": 0,
+      "total_score": 0,
+      "n_items": 0
+    }
+  },
+  "brief_baseline_prorated_subjects": [
+    "S<n>"
+  ],
+  "brief_invalid_administrations": {
+    "baseline": [],
+    "post": [
+      "S<n>"
+    ],
+    "followup": [
+      "S<n>"
+    ]
+  },
+  "wcst_baseline_perseverative_errors": {
+    "S<n>": 0
+  },
+  "short_channels_per_subject": {
+    "default": 0,
+    "S<n>": 0
+  },
+  "wcst_sessions_without_regular_incorrect": [
+    [
+      "S<n>",
+      0
+    ]
+  ],
+  "wcst_baseline_sessions_with_one_regular_incorrect": 0,
+  "wcst_regular_incorrect_counts": [
+    [
+      "S<n>",
+      0,
+      0
+    ]
+  ],
+  "low_accuracy_sessions": [
+    [
+      "stroop",
+      "S<n>",
+      0
+    ]
+  ],
+  "longitudinal_second_timepoint_orders": {
+    "S<n>": 0
+  },
+  "wcst_event_outcome_counts": [
+    {
+      "subject": "S<n>",
+      "task_order": 0,
+      "start_trial": 0,
+      "correct": 0,
+      "incorrect": 0,
+      "blank": 0
+    }
+  ]
+}

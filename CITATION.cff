@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "OUD-tPBM: analysis code for 'Convergent Assessment of Executive Dysfunction in Opioid Use Disorder: Integrating Self-Report, Behavioral, and Neural Measures in a Transcranial Photobiomodulation Case Series'"
+message: "If you use this code, please cite the paper 'Convergent Assessment of Executive Dysfunction in Opioid Use Disorder: Integrating Self-Report, Behavioral, and Neural Measures in a Transcranial Photobiomodulation Case Series' (Chen, Estudillo-Guerra, Mesia and Cassano, 2026)."
+type: software
+authors:
+  - family-names: Chen
+    given-names: Yibei
+    affiliation: "McGovern Institute for Brain Research, Massachusetts Institute of Technology"
+    orcid: "https://orcid.org/0000-0003-2882-0900"
+  - family-names: Estudillo-Guerra
+    given-names: Anayali
+    affiliation: "Hope House Addiction Services"
+  - family-names: Mesia
+    given-names: Ine
+    affiliation: "Hope House Addiction Services"
+  - family-names: Cassano
+    given-names: Paolo
+    affiliation: "Massachusetts General Hospital"
+license: MIT
+repository-code: "https://github.com/yibeichan/OUD-tPBM"
